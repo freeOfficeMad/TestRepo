@@ -24,14 +24,7 @@
  *
  */
 
-//asdfaskldfklasdfasdfsad
-sdsadfasdfas
-df
-asd
-fsd
-f
-sad
-f
+
 #import "CCAction.h"
 
 /** Instant actions are immediate actions. They don't have a duration like
