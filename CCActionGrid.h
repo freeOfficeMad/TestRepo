@@ -28,6 +28,7 @@
 #import "CCActionInstant.h"
 #import "CCGrid.h"
 
+@class MiClaseCHida;
 @class CCGridBase;
 
 /** Base class for Grid actions */
