@@ -25,6 +25,9 @@
  */
 
 
+// cambio para el commmit
+·include "CCLayer.h"
+
 #import "CCActionInstant.h"
 #import "CCNode.h"
 #import "CCSprite.h"
