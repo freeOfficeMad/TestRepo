@@ -43,14 +43,6 @@
 
 -(id)initWithWaves:(int)wav amplitude:(float)amp grid:(ccGridSize)gSize duration:(ccTime)d
 {
-    
-    int i = 0;
-    for (i = 5;i<5*5;i+=5){
-    
-        NSLog(@"Prueba de codigo modificado.");
-        
-    }
-    
 	if ( (self = [super initWithSize:gSize duration:d]) )
 	{
 		waves = wav;
